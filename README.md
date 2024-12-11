@@ -10,7 +10,7 @@ Durante a construção do repositório, serão abordados alguns conceitos básic
 
 Sprites são imagens 2D que representam personagens, objetos e elementos do cenário. Para o nosso fangame, utilizaremos sprites de Pokémon e outros elementos do universo da franquia desenvolvidos pela comunidade de fans! Com destaque especial a comunidade `Project Pokemon`.
 
-
+![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/BattlePoke/refs/heads/main/img/pokebannercomu.png)
 
 > Animação
 
