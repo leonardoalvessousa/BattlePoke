@@ -20,7 +20,7 @@ A animação é crucial para dar vida ao jogo. Utilizaremos JavaScript para cria
 - Efeitos visuais: Implementando efeitos especiais para ataques, explosões e outros eventos.
 
 >> **Exemplo de evento: Receber golpe adversário**
-Determinar áreas de limitação dos movimentos e interação do usuário:
+Determinar áreas de limitação dos movimentos junto a interação do usuário:
 
 ![box1](https://raw.githubusercontent.com/leonardoalvessousa/BattlePoke/refs/heads/main/img/box1.png)
 
