@@ -1,3 +1,5 @@
+![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/RaspAsmBareMetal/refs/heads/main/rpiIMG.jpg)
+
 Este repositório irá documentar o desenvolvimento de um fangame de Pokémon simples utilizando HTML, CSS e JavaScript. O objetivo é explorar as possibilidades de criar jogos utilizando tecnologias web e oferecer um guia para iniciantes que desejam se aventurar no mundo do desenvolvimento de games.
 
 ### Conceitos básicos 
